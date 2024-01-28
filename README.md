@@ -5,7 +5,7 @@ This is the repository for all Class Assignments done by Team 02 for the Intro t
 
 
 ### Usage
-Click on the folders to view each assignment
+Click on the folders to view each assignment <br>
 Each folder contains a Notbook and a README File<br>
 All assignments done using Jupyter Notebook <br>
 To run the notebooks: Clone the repository <br>
