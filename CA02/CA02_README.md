@@ -14,7 +14,7 @@ The project uses the following Python libraries <br>
 - collections.Counter <br>
 - sklearn (for the Naive Bayes algorithm and accuracy metrics). <br>
 
-To install the sikit-learn library, run the following command: <br>
+To install the sklearn library, run the following command: <br>
 pip install scikit-learn
 
 ## Methodology and Code Descriptions
