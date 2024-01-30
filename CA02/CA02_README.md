@@ -1,4 +1,6 @@
-# CA02 - Spam Email Classifier using Naive Bayes
+# CA02 - Vish & Xiomara
+
+# Spam Email Classifier using Naive Bayes
 
 ## Project Description
 This project implements a Spam Email Classifier using the Naive Bayes supervised machine learning algorithm. The classifier is trained and tested on a dataset of emails, which are labeled as either 'Spam' or 'Not Spam'.
