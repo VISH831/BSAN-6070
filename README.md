@@ -1,7 +1,7 @@
 # BSAN-6070
 
 ### Team 03 - Vish & Xiomara
-This repository contains all Class Assignments done by Team 02 for the Intro to ML Class (6070-02). <br>
+This repository contains all Class Assignments done by Team 03 for the Intro to ML Class (6070-02). <br>
 
 
 ### Usage
